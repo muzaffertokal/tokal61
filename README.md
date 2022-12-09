@@ -4,7 +4,7 @@
 <h3 align="center">👀 I’m interested in mobile programming</h3>
 <h3 align="center">📫 you can contact me muzaffers3mini@gmail.com</h3>
 
-<img align="right" height="270px" alt="guy" width="350" src="https://media.giphy.com/media/QCAaqb7STvc3u/giphy.gif" /> </a>
+<img align="right" height="350px" alt="guy" width="400" src="https://media.giphy.com/media/QCAaqb7STvc3u/giphy.gif" /> </a>
 
 
 
